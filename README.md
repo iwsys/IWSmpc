@@ -20,3 +20,5 @@ Previous track / Next track
 Pause after 30 or 60 minutes
 
 Enable / disable audio output
+
+Timer
