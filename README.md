@@ -3,9 +3,11 @@
 ![Screenshot](iwsmpc.png)
 
 IWS MPC WEB INTERFACE for your smartphone.
+
 Lightweight and fast. 
 
 Install mpd and mpc.
+
 Put one file (index.php) in directory of apache. 
 
 
