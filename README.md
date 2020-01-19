@@ -11,14 +11,14 @@ Put one file (index.php) in directory of apache.
 ![Screenshot](iwsmpc.png)
 
 
-# Functions:
+### Functions:
 
-Pause / Play
+- Pause / Play
 
-Previous track / Next track
+- Previous track / Next track
 
-Pause after 30 or 60 minutes
+- Pause after 30 or 60 minutes
 
-Enable / disable audio output
+- Enable / disable audio output
 
-Timer
+- Timer
